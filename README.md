@@ -11,11 +11,11 @@
   <br/>
 
   <!-- Contacto y Ubicación -->
-  <a href="https://www.linkedin.com/in/crslamas/" target="_blank">
+  <a href="https://www.linkedin.com/in/cristianlamAR/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:crslamas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-crslamas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:cristianlamAR@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cristianlamAR@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/La_Plata-Argentina-74ACDF?style=flat-square&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Sector-Salud_P%C3%BAblica-2E7D32?style=flat-square" />
@@ -63,13 +63,13 @@ Plataforma modular desarrollada en **Laravel 12** para centralizar y modernizar 
 
 <div align="center">
   <!-- Estadísticas con repositorios y commits privados incluidos -->
-  <img src="https://github-readme-stats.vercel.app/api?username=crslamas&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=161b22&title_color=74ACDF&icon_color=74ACDF&text_color=e6edf3" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crslamas&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=161b22&title_color=74ACDF&text_color=e6edf3" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cristiamlamAR&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=161b22&title_color=74ACDF&icon_color=74ACDF&text_color=e6edf3" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianlamAR&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=161b22&title_color=74ACDF&text_color=e6edf3" height="155" />
 </div>
 
 <div align="center">
   <!-- Racha de contribuciones -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crslamas&theme=tokyonight&hide_border=true&background=161b22&ring=74ACDF&fire=74ACDF&currStreakLabel=74ACDF" height="155" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristianlamAR&theme=tokyonight&hide_border=true&background=161b22&ring=74ACDF&fire=74ACDF&currStreakLabel=74ACDF" height="155" />
 </div>
 
 ---
